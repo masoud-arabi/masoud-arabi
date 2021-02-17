@@ -7,7 +7,7 @@
 
 - 🧑🏼‍💻 My portfolio [masoud-portfolio](https://masoudarabi-portfolio.herokuapp.com/)
 
-- 📄 Find my resume here : [#](#)
+- 📄 Find my resume here : [My Resume](https://res.cloudinary.com/dvib128yy/image/upload/v1613591953/fe50ghqvkmwqgb7b3c7i.jpg)
 
 - 🎓 I'm a Le Wagon Alumni [https://www.lewagon.com/montreal](https://www.lewagon.com/montreal)
 
