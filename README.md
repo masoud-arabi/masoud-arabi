@@ -1,11 +1,10 @@
 <h2 align="left">Hi 👋, I'm Masoud</h2>
 <h4 align="left">A curious and driven full stack developer</h4>
 
-- ⚛ I’m currently learning **React/Redux**
 
-- 📫 Reach me on **masoud.arabi2030@gmail.com**
+- 📫 Reach me on **masoud.arabi.dev@gmail.com**
 
-- 🧑🏼‍💻 My portfolio [masoud-portfolio](https://masoudarabi-portfolio.herokuapp.com/)
+- 🧑🏼‍💻 My portfolio [masoud-portfolio](https://masoud-arabi.github.io)
 
 - 📄 Find my resume here : [My Resume](https://res.cloudinary.com/dvib128yy/image/upload/v1613591953/fe50ghqvkmwqgb7b3c7i.jpg)
 
