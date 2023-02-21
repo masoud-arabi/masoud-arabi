@@ -6,7 +6,7 @@
 
 - 🧑🏼‍💻 My portfolio [masoud-portfolio](https://masoud-arabi.github.io)
 
-- 📄 Find my resume here : [My Resume](https://res.cloudinary.com/dvib128yy/image/upload/v1613591953/fe50ghqvkmwqgb7b3c7i.jpg)
+- 📄 Find my resume here : [My Resume](https://res.cloudinary.com/dvib128yy/image/upload/v1675186058/Masoud-Arabi-CV_eu70qb.jpg)
 
 - 🎓 I'm a Le Wagon Alumni [https://www.lewagon.com/montreal](https://www.lewagon.com/montreal)
 
